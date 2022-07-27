@@ -1,0 +1,98 @@
+/*fonts-Georgian*/
+.Georgiantitle {
+	font-family: "BPG Banner Caps", sans-serif;
+	font-size: 14px;
+	color: #5863F8;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+.Georgiantitle-rel {
+	font-family: 'BPG Arial';
+    font-size: 42px;
+    color: #000000;
+    font-weight: bolder;
+    line-height: 52px;
+}
+/*fonts-latin*/
+.title-latin {
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	color: #5863F8;
+	font-weight: bold;
+	display: inline-block;
+	vertical-align: middle;
+}
+.latin-h5 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	color: #000000;
+	font-weight: SemiBold;
+	display: block;
+	vertical-align: middle;
+}
+.latin-p {
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	color: #B1B1B1;
+	font-weight: lighter;
+	vertical-align: middle;
+}
+.container-block {
+	width: 1088px;
+	height: 376px;
+	margin: 0 auto;
+}
+.title-block {
+	width: 498px;
+	height: 136px;
+	margin-top: 82px;
+	
+
+}
+.left-block {
+	width: 536px;
+	display: inline-block;
+	background: #F8F8F8;
+
+}
+.right-block {
+	width: 536px;
+	display: inline-block;
+	background: #BE2B2B;
+	margin-right: 16px;
+}
+
+.first-block {
+	display: inline-block;
+	width: 367px;
+	height: 337px;
+    margin-right: 16px;
+	background: #F8F8F8;
+}
+.second-block {
+	display: inline-block;
+	width: 367px;
+	height: 337px;
+	margin-right: 16px;
+	background: #F8F8F8;
+
+}
+.third-block {
+	display: inline-block;
+	width: 367px;
+	height: 337px;
+	background: #F8F8F8;
+
+}
+.firstsection-image {
+	width: 168px;
+	height: 190px;
+	display: inline-block;
+
+}
+.secondsection-image {
+	width: 352px;
+	height: 212px;
+	display: inline-block;
+}
