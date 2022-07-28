@@ -1,3 +1,7 @@
+.cointainer-block {
+	width: 1088px;
+	margin: 0 auto;
+}
 /*fonts-Georgian*/
 .Georgiantitle {
 	font-family: "BPG Banner Caps", sans-serif;
@@ -20,7 +24,6 @@
 	font-size: 14px;
 	color: #5863F8;
 	font-weight: bold;
-	display: inline-block;
 	vertical-align: middle;
 }
 .latin-h5 {
@@ -28,71 +31,81 @@
 	font-size: 18px;
 	color: #000000;
 	font-weight: SemiBold;
-	display: block;
 	vertical-align: middle;
 }
 .latin-p {
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
+	width: 260px;
 	color: #B1B1B1;
 	font-weight: lighter;
-	vertical-align: middle;
+	display: inline-block;
 }
-.container-block {
-	width: 1088px;
-	height: 376px;
-	margin: 0 auto;
-}
+
 .title-block {
 	width: 498px;
-	height: 136px;
 	margin-top: 82px;
 	
-
 }
 .left-block {
 	width: 536px;
 	display: inline-block;
 	background: #F8F8F8;
+	margin-right: 16px;
 
 }
 .right-block {
 	width: 536px;
 	display: inline-block;
 	background: #BE2B2B;
-	margin-right: 16px;
 }
-
-.first-block {
+.text {
 	display: inline-block;
-	width: 367px;
-	height: 337px;
-    margin-right: 16px;
+	vertical-align: middle;
+}
+.blocks {
+	margin: 65px 0px 154px;
+
+}
+.titles {
+	text-align: center;
+
+}
+.first-block {
+	width: 352px;
+	margin-right: 16px;
 	background: #F8F8F8;
+	display: inline-block;
 }
 .second-block {
-	display: inline-block;
-	width: 367px;
-	height: 337px;
-	margin-right: 16px;
+	width: 352px;
+    margin-right: 16px;
 	background: #F8F8F8;
+	display: inline-block;
 
 }
 .third-block {
 	display: inline-block;
-	width: 367px;
-	height: 337px;
+	width: 352px;
 	background: #F8F8F8;
+	display: inline-block;
 
 }
 .firstsection-image {
 	width: 168px;
 	height: 190px;
 	display: inline-block;
+	vertical-align: middle;
+	margin-right: 16px;
 
 }
 .secondsection-image {
 	width: 352px;
 	height: 212px;
 	display: inline-block;
+	vertical-align: middle;
+
+}
+.two-blocks {
+	margin-top: 50px;
 }
