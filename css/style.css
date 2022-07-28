@@ -9,6 +9,8 @@
 	color: #5863F8;
 	font-weight: bold;
 	text-transform: uppercase;
+	margin-bottom: 50px;
+	margin-top: 1px;
 
 }
 .Georgiantitle-rel {
@@ -25,6 +27,7 @@
 	color: #5863F8;
 	font-weight: bold;
 	vertical-align: middle;
+	margin-top: 23px;
 }
 .latin-h5 {
 	font-family: 'Poppins', sans-serif;
@@ -32,6 +35,7 @@
 	color: #000000;
 	font-weight: SemiBold;
 	vertical-align: middle;
+	margin-bottom: 10px;
 }
 .latin-p {
 	font-family: 'Poppins', sans-serif;
